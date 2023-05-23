@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(203, 203, 203);
+}
+.fixed-size-button {
+  width: 100px; 
+  height: 35px;
+}
+.fixed-siz-button {
+  width: 75px; 
+  height: 35px;
+}
+.fixed{
+  width: 350px;
+  height: 50px;
+}
+.but {
+  width: 100px; 
+  height: 35px;
+}
+.button-container {
+  margin-left: auto;
+}
+.btn{
+  background-color: white;
+}
